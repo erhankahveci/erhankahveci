@@ -1,4 +1,9 @@
-<table align="center" cellspacing="20" cellpadding="0" border="0" style="background:#0d1117; padding:20px;">
+<!-- PROFİL BÖLÜMÜ BAŞLANGICI -->
+<p align="center">
+  <b>🛠️ Teknoloji ve Yetenekler</b>
+</p>
+
+<table align="center" cellspacing="20" cellpadding="0" border="0" style="background:#0d1117; padding:20px; border-radius:10px;">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70"><br>
@@ -38,3 +43,4 @@
     </td>
   </tr>
 </table>
+<!-- PROFİL BÖLÜMÜ SONU -->
