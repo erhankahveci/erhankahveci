@@ -12,7 +12,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
   </a>
   <a href="https://kahvecierhan.medium.com" target="_blank" style="margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40" alt="Medium" style="filter: invert(1);">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" alt="Medium">
   </a>
   <a href="https://kahvecierhan.com" target="_blank" style="margin: 0 12px;">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Website">
