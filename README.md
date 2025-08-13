@@ -1,48 +1,38 @@
-<div style="overflow-x: auto; background: #0d1117; padding: 20px;">
-  <table cellspacing="20" cellpadding="0" border="0" style="white-space: nowrap;">
-    <tr>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70"><br>
-        <span style="color:#fff;">Python</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70"><br>
-        <span style="color:#fff;">Java</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="70"><br>
-        <span style="color:#fff;">Flutter</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="70"><br>
-        <span style="color:#fff;">SQLite</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="70"><br>
-        <span style="color:#fff;">MATLAB</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"><br>
-        <span style="color:#fff;">Linux</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="70"><br>
-        <span style="color:#fff;">.NET</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="70"><br>
-        <span style="color:#fff;">MSSQL</span>
-      </td>
-      <td align="center" style="transition: transform 0.2s; cursor: pointer;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="70"><br>
-        <span style="color:#fff;">C++</span>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px; background: #0d1117; white-space: nowrap;">
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">Python</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">Java</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">Flutter</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">SQLite</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">MATLAB</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">Linux</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="70">
+    <div style="color: #fff; margin-top: 5px;">.NET</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">MSSQL</div>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; min-width: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="70">
+    <div style="color: #fff; margin-top: 5px;">C++</div>
+  </div>
 </div>
-
-<style>
-  table td:hover {
-    transform: scale(1.2);
-  }
-</style>
