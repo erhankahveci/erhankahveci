@@ -1,5 +1,5 @@
 <p align="center">
-<p align="center"><a href="https://kahvecierhan.com"><img width="80%" alt="Hello, I'm Erhan. I do open source!" src="./assets/gh_readme_header.png" /></a></p>
+<p align="center"><a href="https://kahvecierhan.com"><img width="50%" alt="Hello, I'm Erhan. I do open source!" src="./assets/gh_readme_header.png" /></a></p>
 
 <br />
 
