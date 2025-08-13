@@ -1,36 +1,38 @@
-<div style="background: #0d1117; padding: 20px; white-space: nowrap; overflow-x: auto; text-align: center;">
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; background: #0d1117; padding: 20px; gap: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;">Python</div>
+    <span style="color: #fff; margin-top: 5px;">Python</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;">Java</div>
+    <span style="color: #fff; margin-top: 5px;">Java</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;">Flutter</div>
+    <span style="color: #fff; margin-top: 5px;">Flutter</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;">SQLite</div>
+    <span style="color: #fff; margin-top: 5px;">SQLite</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;">MATLAB</div>
+    <span style="color: #fff; margin-top: 5px;">MATLAB</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;">Linux</div>
+    <span style="color: #fff; margin-top: 5px;">Linux</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://skillicons.dev/icons?i=dotnet" width="70">
-    <div style="color: #fff; margin-top: 5px;">.NET</div>
+    <span style="color: #fff; margin-top: 5px;">.NET</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;">MSSQL</div>
+    <span style="color: #fff; margin-top: 5px;">MSSQL</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="70">
-    <div style="color: #fff; margin-top: 5px;"
+    <span style="color: #fff; margin-top: 5px;">C++</span>
+  </div>
+</div>
