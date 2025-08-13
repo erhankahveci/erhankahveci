@@ -1,9 +1,24 @@
+<!-- Profil Başlangıcı -->
 <p align="center">
   <a href="https://kahvecierhan.com">
     <img width="35%" src="./assets/gh_readme_header.svg" alt="Hello, I'm Erhan. I do open source!" /><br>
     <span style="color:white; font-size:20px; font-weight:bold;">Hello, I'm Erhan. I do open source!</span>
   </a>
 </p>
+
+<!-- Sosyal Bağlantılar -->
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/kahvecierhan" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn">
+  </a>
+  <a href="https://kahvecierhan.medium.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="50" alt="Medium" style="filter: invert(1);">
+  </a>
+  <a href="https://kahvecierhan.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" alt="Website">
+  </a>
+</p>
+
 
 <table align="center" cellspacing="30" cellpadding="0" border="0" style="background:#0d1117; padding:25px; border-radius:15px;">
   <tr>
