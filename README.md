@@ -1,4 +1,4 @@
-
+<!-- PROFİLİM & TEKNOLOJİLER BÖLÜMÜ -->
 <p align="center">
   👋 <b style="font-size:24px;">Hi there! I'm Erhan</b><br>
   💻 <b style="font-size:18px;">Technologies I love working with:</b>
