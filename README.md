@@ -28,4 +28,3 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="70" /><br>C++
     </td>
   </tr>
-</table> hücre efektini kaldırınca logolar alt alta geliyor
