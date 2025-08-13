@@ -1,9 +1,8 @@
 <p align="center">
-<p align="center"><a href="https://kahvecierhan.com"><img width="35%" alt="Hello, I'm Erhan. I do open source!" src="./assets/gh_readme_header.png" /></a></p>
-
-<br />
-
-
+  <a href="https://kahvecierhan.com">
+    <img width="35%" src="./assets/gh_readme_header.png" alt="Hello, I'm Erhan. I do open source!" /><br>
+    <span style="color:white; font-size:20px; font-weight:bold;">Hidear</span>
+  </a>
 </p>
 
 <table align="center" cellspacing="30" cellpadding="0" border="0" style="background:#0d1117; padding:25px; border-radius:15px;">
