@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kahvecierhan.com">
-    <img width="35%" src="./assets/gh_readme_header.png" alt="Hello, I'm Erhan. I do open source!" /><br>
+    <img width="35%" src="./assets/gh_readme_header.svg" alt="Hello, I'm Erhan. I do open source!" /><br>
     <span style="color:white; font-size:20px; font-weight:bold;">Hello, I'm Erhan. I do open source!</span>
   </a>
 </p>
