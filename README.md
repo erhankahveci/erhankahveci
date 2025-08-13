@@ -9,15 +9,16 @@
 <!-- Sosyal Bağlantılar -->
 <p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/kahvecierhan" target="_blank" style="margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" alt="LinkedIn" style="filter: invert(1);">
   </a>
   <a href="https://kahvecierhan.medium.com" target="_blank" style="margin: 0 12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" alt="Medium">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40" alt="Medium" style="filter: invert(1);">
   </a>
   <a href="https://kahvecierhan.com" target="_blank" style="margin: 0 12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Website">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" width="40" alt="Website" style="filter: invert(1);">
   </a>
 </p>
+
 
 <!-- Yetenekler Tablosu -->
 <table align="center" cellspacing="30" cellpadding="0" border="0" style="background:#0d1117; padding:25px; border-radius:15px;">
