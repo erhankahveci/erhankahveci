@@ -1,6 +1,9 @@
 <p align="center">
-  👋 <b style="font-size:24px;">Hi there! I'm Erhan</b><br>
-  💻 <b style="font-size:18px;">Technologies I love working with:</b>
+<p align="center"><a href="kahvecierhan.com"><img width="80%" alt="Hello, I'm Erhan. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I'm a self-taught passionate FrontEnd developer from
 </p>
 
 <table align="center" cellspacing="30" cellpadding="0" border="0" style="background:#0d1117; padding:25px; border-radius:15px;">
