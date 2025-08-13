@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto; background: #0d1117; padding: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto; width: 100%; background: #0d1117; padding: 20px;">
   <div style="text-align: center; flex: 0 0 auto;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" /><br>Python
   </div>
