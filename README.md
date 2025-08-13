@@ -1,6 +1,7 @@
-<!-- PROFİL BÖLÜMÜ BAŞLANGICI -->
+<!-- PROFİLSELAM & TEKNOLOJİLER BÖLÜMÜ -->
 <p align="center">
-  <b>🛠️ Teknoloji ve Yetenekler</b>
+  👋 Hi there! I'm Erhan, welcome to my GitHub profile!<br>
+  💻 Here are some technologies I work with:
 </p>
 
 <table align="center" cellspacing="20" cellpadding="0" border="0" style="background:#0d1117; padding:20px; border-radius:10px;">
@@ -43,4 +44,3 @@
     </td>
   </tr>
 </table>
-<!-- PROFİL BÖLÜMÜ SONU -->
